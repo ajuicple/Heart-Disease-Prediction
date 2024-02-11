@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction
-Prediction Modeling - Python
+# Prediction (Heart Disease)
+#Predicting heart disease though attributes. 
